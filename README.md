@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 ## 📫 Contact
 
 - Email: your-email@example.com
-- LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/한교-정-aa9983260)
+- LinkedIn: [https://linkedin.com/in/한교-정-aa9983260](https://linkedin.com/in/한교-정-aa9983260)
 
 ## ⚡ Fun Facts
 
