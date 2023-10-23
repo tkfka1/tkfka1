@@ -15,7 +15,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-![자산 2](https://github.com/tkfka1/tkfka1/assets/36651040/f1a78fe3-8a9b-4891-8a35-ac2a32380bd4)
+[![자산 2](https://github.com/tkfka1/tkfka1/assets/36651040/f1a78fe3-8a9b-4891-8a35-ac2a32380bd4)](https://programmers.co.kr)
 
 
 <!---
