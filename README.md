@@ -12,7 +12,7 @@ programmers
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/profile/tkfka1)
 
-[![텍스트](http://cfile24.uf.tistory.com/image/2444873B57E257821FA2AE)](https://unity3d.com/kr)
+[![텍스트](https://github.com/tkfka1/tkfka1/assets/36651040/ccd5fd0c-babc-4b9e-8fea-2e4ebc1fb678)](https://unity3d.com/kr)
 
 <!---
 tkfka1/tkfka1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
