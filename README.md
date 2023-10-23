@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkfka1&theme=github&exclude={exclude})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkfka1&theme=github&exclude={exclude})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkfka1&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkfka1&theme=github&utcOffset={utcOffset})
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkfka1&theme=github&utcOffset=9)
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkfka1&show_icons=true)
