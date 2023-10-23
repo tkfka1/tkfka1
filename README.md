@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-
+![tkfka1's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkfka1&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkfka1&layout=compact)](https://github.com/tkfka1)
 
