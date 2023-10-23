@@ -16,6 +16,17 @@ You can click the Preview link to take a look at your changes.
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus)
+![Loki](https://img.shields.io/badge/-Loki-CC3333?style=flat-square&logo=loki)
+![Promtail](https://img.shields.io/badge/-Promtail-6E6E6E?style=flat-square&logo=promtail)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
+![AWS CodeDeploy](https://img.shields.io/badge/-CodeDeploy-ED8E00?style=flat-square&logo=amazon-aws)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-0A74DA?style=flat-square&logo=argocd)
+![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=github-actions)
+![AWS CI/CD](https://img.shields.io/badge/-AWS%20CI%2FCD-FF9900?style=flat-square&logo=amazon-aws)
+
 ![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
