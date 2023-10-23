@@ -11,20 +11,32 @@ You can click the Preview link to take a look at your changes.
 - Web Development
 - DevOps
 - Machine Learning and Artificial Intelligence
+- 
+## 🛠 Technologies & Tools
 
-## 🛠 Technologies
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+## 🗣 Languages
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+
+## 🎯 Tech Stack
+
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=spring-boot)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 
 ## 📈 Stats
 
