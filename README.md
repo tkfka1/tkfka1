@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - Web Development
 - DevOps
 - Machine Learning and Artificial Intelligence
-- 
+
 ## 🛠 Technologies & Tools
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
