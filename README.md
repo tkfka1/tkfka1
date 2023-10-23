@@ -49,9 +49,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkfka1&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkfka1&layout=compact)](https://github.com/tkfka1)
-[![자산 2](https://github.com/tkfka1/tkfka1/assets/36651040/f1a78fe3-8a9b-4891-8a35-ac2a32380bd4)](https://programmers.co.kr)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/profile/tkfka1)
-
+[![자산 2](https://github.com/tkfka1/tkfka1/assets/36651040/f1a78fe3-8a9b-4891-8a35-ac2a32380bd4)](https://programmers.co.kr)
 
 ## 📫 Contact
 
