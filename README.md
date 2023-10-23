@@ -6,13 +6,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkfka1&layout=compact)](https://github.com/tkfka1)
 
-programmers
-
-[![programmers](https://github.com/tkfka1/tkfka1/assets/36651040/ccd5fd0c-babc-4b9e-8fea-2e4ebc1fb678)](https://programmers.co.kr)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/profile/tkfka1)
 
-[![텍스트](https://github.com/tkfka1/tkfka1/assets/36651040/ccd5fd0c-babc-4b9e-8fea-2e4ebc1fb678)](https://unity3d.com/kr)
+[![제목 없음-1](https://github.com/tkfka1/tkfka1/assets/36651040/80d71415-e022-423d-b452-b2de1c1c8dce)](https://programmers.co.kr)
+
 
 <!---
 tkfka1/tkfka1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
