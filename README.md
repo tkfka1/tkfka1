@@ -7,10 +7,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkfka1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 programmers
-[![스크린샷 2023-10-23 오후 5 53 02](https://github.com/tkfka1/tkfka1/assets/36651040/ccd5fd0c-babc-4b9e-8fea-2e4ebc1fb678)](https://programmers.co.kr/)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/tkfka1)
+[![programmers](https://github.com/tkfka1/tkfka1/assets/36651040/ccd5fd0c-babc-4b9e-8fea-2e4ebc1fb678)](https://programmers.co.kr/)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/tkfka1)
 
 
 
