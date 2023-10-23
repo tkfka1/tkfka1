@@ -51,12 +51,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 📈 Stats
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkfka1&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkfka1&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkfka1&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkfka1&layout=compact)](https://github.com/tkfka1)
