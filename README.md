@@ -10,7 +10,7 @@ programmers
 
 [![programmers](https://github.com/tkfka1/tkfka1/assets/36651040/ccd5fd0c-babc-4b9e-8fea-2e4ebc1fb678)](https://programmers.co.kr/)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/tkfka1)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/profile/tkfka1)
 
 
 
