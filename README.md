@@ -70,9 +70,8 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary>Certifications</summary>
   
-
-[![Credly Icon](https://github.com/your-username/your-repo/blob/main/path-to-your-icon-image/credly-icon.png)](https://www.credly.com/users/hankyo-jeong/badges)
-[![OpenBadge Icon](https://github.com/your-username/your-repo/blob/main/path-to-your-icon-image/openbadge-icon.png)](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/YWI4NUw3UG83UlpYVnpoZ2FaeEhHdz09)
+[![Credly](https://img.shields.io/badge/Credly-Profile-blue)](https://www.credly.com/users/hankyo-jeong/badges)
+[![OpenBadge](https://img.shields.io/badge/OpenBadge-Profile-blue)](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/YWI4NUw3UG83UlpYVnpoZ2FaeEhHdz09)
 
 - **Computer Proficiency Grade 1**  
   2022.12, Korea Chamber of Commerce and Industry  
