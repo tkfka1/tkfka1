@@ -7,15 +7,14 @@
 
 ![tkfka1's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkfka1&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkfka1&layout=compact)](https://github.com/tkfka1)
+
 
 [![제목 없음-1](https://github.com/tkfka1/tkfka1/assets/36651040/80d71415-e022-423d-b452-b2de1c1c8dce)](https://programmers.co.kr)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/profile/tkfka1)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![자산 2](https://github.com/tkfka1/tkfka1/assets/36651040/f1a78fe3-8a9b-4891-8a35-ac2a32380bd4)](https://programmers.co.kr)
+
 
 
 <!---
@@ -46,9 +45,13 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 
-## 📈 GitHub Stats
+## 📈 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkfka1&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkfka1&layout=compact)](https://github.com/tkfka1)
+[![자산 2](https://github.com/tkfka1/tkfka1/assets/36651040/f1a78fe3-8a9b-4891-8a35-ac2a32380bd4)](https://programmers.co.kr)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/profile/tkfka1)
+
 
 ## 📫 Contact
 
