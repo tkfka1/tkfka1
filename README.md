@@ -52,11 +52,11 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Stats
 
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkfka1&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkfka1&theme=github&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkfka1&theme=github&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkfka1&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkfka1&theme=github&utcOffset={utcOffset})
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkfka1&show_icons=true)
