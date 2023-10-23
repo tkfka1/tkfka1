@@ -8,7 +8,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=profile/tkfka1)](https://solved.ac/profile/tkfka1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/tkfka1)
 
 
 
