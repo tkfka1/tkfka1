@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 Contact
 
-- Email: your-email@example.com
+- Email: tkfka0502@gmail.com
 - LinkedIn: [https://linkedin.com/in/한교-정-aa9983260](https://linkedin.com/in/한교-정-aa9983260)
 
 ## ⚡ Fun Facts
