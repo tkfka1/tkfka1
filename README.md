@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌱 Interests
 
-- Web Development
 - DevOps
+- Web Development
 - Machine Learning and Artificial Intelligence
 
 ## 🛠 Technologies & Tools
