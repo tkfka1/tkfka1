@@ -61,8 +61,9 @@ You can click the Preview link to take a look at your changes.
 
 ## ⚡ Fun Facts
 
-- (e.g., I love coffee and travel frequently)
-- (e.g., I enjoy learning and taking on new challenges)
+- I love coffee and travel frequently
+- I enjoy learning and taking on new challenges
+
 
 <details>
 <summary>Certifications</summary>
@@ -71,6 +72,48 @@ You can click the Preview link to take a look at your changes.
   2022.12, Korea Chamber of Commerce and Industry  
   ![Certi](https://img.shields.io/badge/Certification-Computer_Proficiency_Grade_1-blue)
 
-<!-- ... other certifications ... -->
+- **Office Automation Engineer (Passed)**  
+  2023.06, Korea Industrial Human Resources Corporation  
+  ![Certi](https://img.shields.io/badge/Certification-Office_Automation_Engineer-blue)
+
+- **Information Processing Engineer (Passed)**  
+  2023.06, Korea Industrial Human Resources Corporation  
+  ![Certi](https://img.shields.io/badge/Certification-Information_Processing_Engineer-blue)
+
+- **AWS Certified Solutions Architect (Passed)**  
+  2023.07, AWS Certifications  
+  ![Certi](https://img.shields.io/badge/Certification-AWS_Solutions_Architect-blue)
+
+- **AWS Certified Developer (Passed)**  
+  2023.08, AWS Certifications  
+  ![Certi](https://img.shields.io/badge/Certification-AWS_Certified_Developer-blue)
+
+- **AWS Certified Cloud Practitioner (Passed)**  
+  2023.08, AWS Certifications  
+  ![Certi](https://img.shields.io/badge/Certification-AWS_Cloud_Practitioner-blue)
+
+- **Certified Kubernetes Administrator (CKA) (Passed)**  
+  2023.06, Linux Foundation  
+  ![Certi](https://img.shields.io/badge/Certification-Kubernetes_Administrator-blue)
+
+- **PCCP(Python)-Programmers Coding Expert (Passed)**  
+  2023.06, (주)그렙 lv3  
+  ![Certi](https://img.shields.io/badge/Certification-PCCP_Python-blue)
+
+- **AICE Associate (Passed)**  
+  2023.08, ㈜ 케이티 / 한국경제  
+  ![Certi](https://img.shields.io/badge/Certification-AICE_Associate-blue)
+
+- **Class 1 Regular Driving License (Passed)**  
+  2013.08, Korean Police Agency (Driver's License Examination Division)  
+  ![Certi](https://img.shields.io/badge/Certification-Class_1_Driving_License-blue)
+
+- **Data Analysis Semi-Professional (ADsP) (Passed)**  
+  2023.09, Korea Database Agency  
+  ![Certi](https://img.shields.io/badge/Certification-Data_Analysis_Semi_Professional-blue)
+
+- **Network Administrator Grade 2 (Passed)**  
+  2023.10, Korea Information and Communication Qualification Association  
+  ![Certi](https://img.shields.io/badge/Certification-Network_Administrator_Grade_2-blue)
 
 </details>
