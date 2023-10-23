@@ -24,5 +24,51 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm tkfka1! 👋
 
+## 🌱 Interests
+
+- Web Development
+- DevOps
+- Machine Learning and Artificial Intelligence
+
+## 🛠 Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
+
+## 📫 Contact
+
+- Website: [https://your-website.com](https://your-website.com)
+- Email: your-email@example.com
+- LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+- Twitter: [https://twitter.com/your-twitter](https://twitter.com/your-twitter)
+
+## ⚡ Fun Facts
+
+- (e.g., I love coffee and travel frequently)
+- (e.g., I enjoy learning and taking on new challenges)
+
+<details>
+<summary>Certifications</summary>
+
+- **Computer Proficiency Grade 1 (Passed)**  
+  2022.12, Korea Chamber of Commerce and Industry  
+  ![Certi](https://img.shields.io/badge/Certification-Computer_Proficiency_Grade_1-blue)
+
+<!-- ... other certifications ... -->
+
+</details>
