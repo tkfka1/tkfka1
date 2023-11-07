@@ -29,6 +29,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
+![illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobeillustrator)
 
 ## 🗣 Languages
 
