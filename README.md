@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![Promtail](https://img.shields.io/badge/-Promtail-black?style=flat-square&logo=promtail)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![AWS CodeDeploy](https://img.shields.io/badge/-CodeDeploy-black?style=flat-square&logo=amazon-aws)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-black?style=flat-square&logo=argocd)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-black?style=flat-square&logo=argo)
 ![GitHub Actions](https://img.shields.io/badge/-Actions-black?style=flat-square&logo=github-actions)
 ![AWS CI/CD](https://img.shields.io/badge/-AWS%20CI%2FCD-black?style=flat-square&logo=amazon-aws)
 
