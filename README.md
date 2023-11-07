@@ -54,6 +54,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🗂️ Project
 
+[한 정 판](https://github.com/tkfka1/LimitedEditionMarket)
+:한정판 제품 구매 및 등록 하는 서비스
+
 [Speed Reader](https://github.com/tkfka1/Speed_Reader)
 :텍스트를 웹 서비스에 등록, 텍스트를 단어씩 순차적으로 화면에 표시하여 사용자가 빠르게 읽을 수 있도록 하는 서비스
 
@@ -71,8 +74,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ### miniProject
+
 [Django OAuth2](https://github.com/tkfka1/DRF-JWT-OAuth2)
 :Django OAuth2
+
+[NetFlix Clone](https://github.com/tkfka1/portfolio)
+:Netflix clone
 
 
 ## 📈 Stats
