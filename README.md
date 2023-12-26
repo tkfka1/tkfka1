@@ -98,8 +98,10 @@ You can click the Preview link to take a look at your changes.
 ## Bootcamp
 
 AWS re/Start
+
 [AWS re/Start youtube interview](https://www.youtube.com/watch?v=GGI4nQcEUcE)
-AWS, 메가존클라우드 클라우드 부트캠프
+
+:AWS, 메가존클라우드 클라우드 부트캠프
 
 ## 📫 Contact
 
