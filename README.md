@@ -94,6 +94,12 @@ You can click the Preview link to take a look at your changes.
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/profile/tkfka1)
 [![자산 2](https://github.com/tkfka1/tkfka1/assets/36651040/f1a78fe3-8a9b-4891-8a35-ac2a32380bd4)](https://programmers.co.kr)
 
+
+## Bootcamp
+
+youtube interview
+![](https://www.youtube.com/watch?v=GGI4nQcEUcE)
+
 ## 📫 Contact
 
 - Email: tkfka0502@gmail.com
@@ -140,7 +146,7 @@ You can click the Preview link to take a look at your changes.
   ![Certi](https://img.shields.io/badge/Certification-Kubernetes_Administrator-blue)
 
 - **PCCP(Python)-Programmers Coding Expert**  
-  2023.06, (주)그렙 lv3  
+  2023.06.18, (주)그렙 lv3  
   ![Certi](https://img.shields.io/badge/Certification-PCCP_Python-blue)
 
 - **AICE Associate**  
@@ -154,5 +160,9 @@ You can click the Preview link to take a look at your changes.
 - **Network Administrator Grade 2**  
   2023.10, Korea Information and Communication Qualification Association  
   ![Certi](https://img.shields.io/badge/Certification-Network_Administrator_Grade_2-blue)
+
+- **Python Master Grade 1**  
+  2023-12-01  
+  ![Certi](https://img.shields.io/badge/Certification-Python_Master_Grade_1-blue)
 
 </details>
