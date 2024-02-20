@@ -55,32 +55,9 @@ DevOps Engineer
 
 ## 🗂️ Project
 
-[한 정 판](https://github.com/tkfka1/LimitedEditionMarket)
-:한정판 제품 구매 및 등록 하는 서비스
-
-[Speed Reader](https://github.com/tkfka1/Speed_Reader)
-:텍스트를 웹 서비스에 등록, 텍스트를 단어씩 순차적으로 화면에 표시하여 사용자가 빠르게 읽을 수 있도록 하는 서비스
-
-[구름대학수강신청](https://github.com/tkfka1/GoormUniversity)
-:가상의 대학 구름대학에서의 수강신청서비스
-
-[구름 속에서 펼쳐진 하루](https://github.com/tkfka1/webservice_duplication-goorm)
-:온프레미스 VM 기반 고가용성 강의 후기 등록 웹서비스
-
-[K8S with WordPress](https://github.com/tkfka1/wordpress_kubenetes)
-:쿠버네티스를 이용한 고가용성 웹서비스 구현
-
-[HKPictures](https://github.com/tkfka1/HKPicture)
-:이미지 모음 서비스
 
 
 ### miniProject
-
-[Django OAuth2](https://github.com/tkfka1/DRF-JWT-OAuth2)
-:Django OAuth2
-
-[NetFlix Clone](https://github.com/tkfka1/portfolio)
-:Netflix clone
 
 
 ## 📈 Stats
@@ -99,8 +76,6 @@ DevOps Engineer
 ## Bootcamp
 
 AWS re/Start
-
-[AWS re/Start youtube interview](https://www.youtube.com/watch?v=GGI4nQcEUcE)
 
 :AWS, 메가존클라우드 클라우드 부트캠프
 
