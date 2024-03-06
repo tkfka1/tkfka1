@@ -72,11 +72,9 @@ DevOps Engineer
 [![자산 2](https://github.com/tkfka1/tkfka1/assets/36651040/f1a78fe3-8a9b-4891-8a35-ac2a32380bd4)](https://programmers.co.kr)
 
 
-## Bootcamp
+## c
 
-AWS re/Start
-
-:AWS, 메가존클라우드 클라우드 부트캠프
+신한DS
 
 ## 📫 Contact
 
