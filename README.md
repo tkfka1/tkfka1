@@ -68,9 +68,6 @@ DevOps Engineer
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkfka1&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkfka1&theme=github&utcOffset=9)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkfka1)](https://solved.ac/profile/tkfka1)
-[![자산 2](https://github.com/tkfka1/tkfka1/assets/36651040/f1a78fe3-8a9b-4891-8a35-ac2a32380bd4)](https://programmers.co.kr)
-
 
 ## 📫 Contact
 
